@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1650477233 source:c:\users\lenovo\documents\fara\uni\semester 2\alpro\praktikum alpro\praktikum 7\adt seqsearchx1\main.c
+	"SEQSearchX1.h"
+	<stdio.h>
+	<stdlib.h>
+
+1650477233 c:\users\lenovo\documents\fara\uni\semester 2\alpro\praktikum alpro\praktikum 7\adt seqsearchx1\seqsearchx1.h
+
+1650477232 source:c:\users\lenovo\documents\fara\uni\semester 2\alpro\praktikum alpro\praktikum 7\adt seqsearchx1\seqsearchx1.c
+	"SEQSearchX1.h"
+	<stdio.h>
+
